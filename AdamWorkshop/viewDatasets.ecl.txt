@@ -1,0 +1,7 @@
+IMPORT $.getRecords;
+
+// View missing kids
+OUTPUT(CHOOSEN(getRecords.Raw_MissingKids_Ds, 200));
+
+// View sex offernders
+OUTPUT(CHOOSEN(getRecords.Raw_SexOffenders_Ds, 200));
