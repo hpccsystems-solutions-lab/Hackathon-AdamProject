@@ -74,28 +74,33 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 
 <div>
 <img src="./Images/ArjunaChala.jpg" alt="Arjuna Chala " width="85" height="100" />
-<p>Arjuna Chala is Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
+<p>Arjuna Chala, Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
+</div>
+pde
+<div>
+<img src="./Images/DanCamp.jpg" alt="Dan Camper" width="85" height="100" />
+<p>Dan Camper, Sir Architect. He's been writing software professionally for more than 35 years and has worked on a myriad of systems, using many different programming languages.</p>
 </div>
 
 <div>
-<img src="./Images/DanCamp.jpg" alt="Dan Camper" width="85" height="100" />
-<p>Dan Camper is a Sir Architect. He's been writing software professionally for more than 35 years and has worked on a myriad of systems, using many different programming languages.</p>
+<img src="./Images/Jerry.png" alt="Bahar Fardanian" width="100" />
+<p>Jerry Jacob, Manager of Software Eng. Jerry manages our engineering team, he is an expert matter in web development, and working with Azure.</p>
 </div>
 
 
 <div>
 <img src="./Images/chris.jpg" alt="Chris Human" width="100" />
-<p>Chris Human is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.</p>
+<p>Chris Human, Software Eng. He is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.</p>
 </div>
 
 <div>
-<img src="./Images/jj.jpg" alt="Jeremy Clements" width="100" />
-<p>Jeremy Clements has been developing CloudIDE, good with ECL and expert on application development.</p>
+<img src="./Images/jeremy.jpg" alt="Jeremy Clements" width="100" />
+<p>Jeremy Clements , Software Eng. He has been developing CloudIDE, good with ECL and expert on application development.</p>
 </div>
 
 <div>
-<img src="./Images/bahar.jpg" alt="Bahar Fardanian" width="100" />
-<p>Bahar Fardanian, our technology evangelist, ECL developer and a mentor.</p>
+<img src="./Images/Bahar.png" alt="Bahar Fardanian" width="100" />
+<p>Bahar Fardanian, Technology Evangelist. She is ECL developer and a mentor. Prof at KSU teaching Big Data course.</p>
 </div>
 
 <div></div>
