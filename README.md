@@ -73,17 +73,17 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 <div class="mentors">
 
 <div>
-<img src="./Images/ArjunaChala.jpg" alt="Arjuna Chala " width="85" height="100" />
+<img src="./Images/ArjunaChala.jpg" alt="Arjuna Chala " width="100" height="100" />
 <p>Arjuna Chala, Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
 </div>
 pde
 <div>
-<img src="./Images/DanCamp.jpg" alt="Dan Camper" width="85" height="100" />
+<img src="./Images/DanCamp.jpg" alt="Dan Camper" width="100" height="100" />
 <p>Dan Camper, Sir Architect. He's been writing software professionally for more than 35 years and has worked on a myriad of systems, using many different programming languages.</p>
 </div>
 
 <div>
-<img src="./Images/Jerry.png" alt="Bahar Fardanian" width="100" />
+<img src="./Images/Jerry.png" alt="Bahar Fardanian" width="100" height="100"/>
 <p>Jerry Jacob, Manager of Software Eng. Jerry manages our engineering team, he is an expert matter in web development, and working with Azure.</p>
 </div>
 
@@ -94,12 +94,12 @@ pde
 </div>
 
 <div>
-<img src="./Images/jeremy.jpg" alt="Jeremy Clements" width="100" />
+<img src="./Images/jeremy.jpg" alt="Jeremy Clements" width="100" height="100"/>
 <p>Jeremy Clements , Software Eng. He has been developing CloudIDE, good with ECL and expert on application development.</p>
 </div>
 
 <div>
-<img src="./Images/Bahar.png" alt="Bahar Fardanian" width="100" />
+<img src="./Images/Bahar.png" alt="Bahar Fardanian" width="90" height="100"/>
 <p>Bahar Fardanian, Technology Evangelist. She is ECL developer and a mentor. Prof at KSU teaching Big Data course.</p>
 </div>
 
