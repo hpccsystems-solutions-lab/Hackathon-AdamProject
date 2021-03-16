@@ -1,6 +1,8 @@
 # Hackathon-AdamProject
 
-Welcom to KSU Hackathon 2021. 
+Welcome to KSU Hackathon 2021. 
+
+Let's start by watching a short video about [Adam Program](https://www.youtube.com/watch?v=j4XeZyTGEtc)
 
 # Challenge
 In the event of a report a missing child, it is important to make sure that child is protected from child offenders. The goal of the challenge is to:
@@ -42,8 +44,7 @@ For this challenge you have three datasets:
 Start with creating a login in [CloudIDE](https://ide.hpccsystems.com/).
 User guide is available under Help in CloudIDE, also can be found in this repository.
 
-[Adam_Workshop](https://ide.hpccsystems.com/workspaces/share/02a3de01-58ae-4239-ac42-909d4628fee6) has the initial record layout and dataset 
-code you need for this challenge.
+[Adam_Workshop](https://ide.hpccsystems.com/workspaces/share/02a3de01-58ae-4239-ac42-909d4628fee6) has the initial record layout and dataset code you need for this challenge. You can also find this code under AdamWorkshop folder in this repository.
 
 If you need more information on jobs you are running please use [ECL Watch Page](http://40.76.26.67:8010)
 
