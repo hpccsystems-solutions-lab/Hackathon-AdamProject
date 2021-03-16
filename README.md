@@ -71,39 +71,29 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 
 # Mentors
 
-<div class="mentors">
 
-<div>
-<img src="./Images/ArjunaChala.jpg" alt="Arjuna Chala " width="100" height="100" />
+
+![Arjuna Chala](./Images/ArjunaChala.jpg)
 <p>Arjuna Chala, Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
-</div>
-pde
-<div>
-<img src="./Images/DanCamp.jpg" alt="Dan Camper" width="100" height="100" />
+
+
+![Dan Camper](./Images/DanCamp.jpg)
+
 <p>Dan Camper, Sir Architect. He's been writing software professionally for more than 35 years and has worked on a myriad of systems, using many different programming languages.</p>
-</div>
 
-<div>
-<img src="./Images/Jerry.png" alt="Bahar Fardanian" width="100" height="100"/>
+
+![Jerry](./Images/Jerry.png)
 <p>Jerry Jacob, Manager of Software Eng. Jerry manages our engineering team, he is an expert matter in web development, and working with Azure.</p>
-</div>
 
 
-<div>
-<img src="./Images/chris.jpg" alt="Chris Human" width="100" />
+
+![Chris](./Images/chris.jpg)
 <p>Chris Human, Software Eng. He is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.</p>
-</div>
 
-<div>
-<img src="./Images/jeremy.jpg" alt="Jeremy Clements" width="100" height="100"/>
+
+![Jeremy](./Images/jeremy.jpg)
 <p>Jeremy Clements , Software Eng. He has been developing CloudIDE, good with ECL and expert on application development.</p>
-</div>
 
-<div>
-<img src="./Images/Bahar.png" alt="Bahar Fardanian" width="90" height="100"/>
+
+![Bahar Fardanian](./Images/Bahar.png")
 <p>Bahar Fardanian, Technology Evangelist. She is ECL developer and a mentor. Prof at KSU teaching Big Data course.</p>
-</div>
-
-<div></div>
-</div>
-
