@@ -5,12 +5,14 @@ Welcome to KSU Hackathon 2021.
 Let's start by watching a short video about [Adam Program](https://www.youtube.com/watch?v=j4XeZyTGEtc)
 
 # Challenge
-In the event of a report a missing child, it is important to make sure that child is protected from child offenders. The goal of the challenge is to:
-- Identify all the offenders in and around the area that child was reported missing. - Given a route of travel/location, map potential offenders that might be targeting to meet the child 
-- What can you infer from the missing kids repository about the hotspots for missing children? 
-- Using ECL Visualizer to show result.
+In the event of reporting a missing child, it is important to make sure that child is protected from child offenders. The goal of the challenge is to try to address the followings:
+- Identify all the offenders in and around the area that child was reported missing. 
+- Given a route of travel/location, map potential offenders that might be the child abductor.
+- What can you infer from the missing kids repository about the hotspots for missing children? Do we have any locations that have more registered sex offenders?
+
 
 One way to approach this problem is to create a weight system based on the number of sex offenders and location approximately, let’s say 180 miles. Then map that to counties with missing children. Use the ECL visualization library to display the result.
+
 
 # Challenge Datasets
 For this challenge you have three datasets:
@@ -71,8 +73,6 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 
 # Mentors
 
-
-
 ![Arjuna Chala](./Images/ArjunaChala.jpg)
 <p>Arjuna Chala, Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
 
@@ -95,5 +95,5 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 <p>Jeremy Clements , Software Eng. He has been developing CloudIDE, good with ECL and expert on application development.</p>
 
 
-![Bahar Fardanian](./Images/Bahar.png")
+![Bahar Fardanian](./Images/Bahar.png)
 <p>Bahar Fardanian, Technology Evangelist. She is ECL developer and a mentor. Prof at KSU teaching Big Data course.</p>
