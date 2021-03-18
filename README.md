@@ -16,9 +16,9 @@ One way to approach this problem is to create a weight system based on the numbe
 
 # Challenge Datasets
 For this challenge you have three datasets:
-1-	GA missing kids report for Jan 2021
-2-	Sex offenders registered in GA
-3-	All US Cities/Counties lat, long, and fips points
+1.	GA missing kids report for Jan 2021
+2.	Sex offenders registered in GA
+3.	All US Cities/Counties lat, long, and fips points
 
 
 # Challenge Tools
@@ -72,6 +72,7 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 
 
 # Mentors
+**Mentors are available from Monday 03/15 - 03/19 from 9AM - 9PM to answer questions.**
 
 ![Arjuna Chala](./Images/ArjunaChala.jpg)
 <p>Arjuna Chala, Sir Dir of Operations. Arjuna’s expertise spans software application development for desktop, web, phone and data analytics.</p>
