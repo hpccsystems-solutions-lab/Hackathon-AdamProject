@@ -87,11 +87,6 @@ For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solu
 <p>Jerry Jacob, Manager of Software Eng. Jerry manages our engineering team, he is an expert matter in web development, and working with Azure.</p>
 
 
-
-![Chris](./Images/chris.jpg)
-<p>Chris Human, Software Eng. He is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.</p>
-
-
 ![Jeremy](./Images/jeremy.jpg)
 <p>Jeremy Clements , Software Eng. He has been developing CloudIDE, good with ECL and expert on application development.</p>
 
