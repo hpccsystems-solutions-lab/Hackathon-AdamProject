@@ -13,6 +13,9 @@ In the event of reporting a missing child, it is important to make sure that chi
 
 One way to approach this problem is to create a weight system based on the number of sex offenders and location approximately, let’s say 180 miles. Then map that to counties with missing children. Use the ECL visualization library to display the result.
 
+Please see [QA Session](https://www.youtube.com/watch?v=zqTTjud3E8g) on more details for this challenge. 
+
+
 
 # Challenge Datasets
 For this challenge you have three datasets:
